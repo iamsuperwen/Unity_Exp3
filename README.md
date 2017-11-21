@@ -2,7 +2,7 @@
 Implementation of "An Immersive 3D Interface for Industrial Robot Manipulators"
 
 ### Design Concept
-![alt text](Concept.png)
+![alt text](Concept.png =250x)
 
 ### User usInterface
 ![alt text](Image.png)
